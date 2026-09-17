@@ -1,0 +1,8 @@
+torch==2.8.0 --index-url https://download.pytorch.org/whl/cu128
+numpy
+matplotlib
+scikit-learn
+tqdm
+pandas
+tensorboard
+huggingface_hub
